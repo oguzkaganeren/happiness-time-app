@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="default_web_client_id" translatable="false">777213787437-ng4pcdskihbpdpum4e67nsgkdjfflddc.apps.googleusercontent.com</string>
+    <string name="firebase_database_url" translatable="false">https://tav-app.firebaseio.com</string>
+    <string name="gcm_defaultSenderId" translatable="false">777213787437</string>
+    <string name="google_api_key" translatable="false">AIzaSyBwJyLUrq9GkqlAiY7lmghRfvJF9zKdgx4</string>
+    <string name="google_app_id" translatable="false">1:777213787437:android:98c6dc5eb169dbf6</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyBwJyLUrq9GkqlAiY7lmghRfvJF9zKdgx4</string>
+    <string name="google_storage_bucket" translatable="false">tav-app.appspot.com</string>
+</resources>

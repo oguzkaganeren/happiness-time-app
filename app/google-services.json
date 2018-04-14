@@ -1,0 +1,73 @@
+{
+  "project_info": {
+    "project_number": "777213787437",
+    "firebase_url": "https://tav-app.firebaseio.com",
+    "project_id": "tav-app",
+    "storage_bucket": "tav-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:777213787437:android:761bba6ed8291676",
+        "android_client_info": {
+          "package_name": "com.example.deu.friend.tav.tavdemo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "777213787437-ng4pcdskihbpdpum4e67nsgkdjfflddc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBwJyLUrq9GkqlAiY7lmghRfvJF9zKdgx4"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:777213787437:android:98c6dc5eb169dbf6",
+        "android_client_info": {
+          "package_name": "com.example.tav.happinesstime"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "777213787437-ng4pcdskihbpdpum4e67nsgkdjfflddc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBwJyLUrq9GkqlAiY7lmghRfvJF9zKdgx4"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

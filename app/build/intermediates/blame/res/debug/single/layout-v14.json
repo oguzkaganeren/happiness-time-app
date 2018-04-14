@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "D:\\HappinessTime\\app\\build\\intermediates\\res\\merged\\debug\\layout-v14\\md_stub_progress.xml",
+        "source": "C:\\Users\\OguzPC\\.gradle\\caches\\transforms-1\\files-1.1\\core-0.9.6.0.aar\\e8bf9f281dd08e355db9b91ae2741dab\\res\\layout-v14\\md_stub_progress.xml"
+    },
+    {
+        "merged": "D:\\HappinessTime\\app\\build\\intermediates\\res\\merged\\debug\\layout-v14\\md_stub_progress_indeterminate.xml",
+        "source": "C:\\Users\\OguzPC\\.gradle\\caches\\transforms-1\\files-1.1\\core-0.9.6.0.aar\\e8bf9f281dd08e355db9b91ae2741dab\\res\\layout-v14\\md_stub_progress_indeterminate.xml"
+    },
+    {
+        "merged": "D:\\HappinessTime\\app\\build\\intermediates\\res\\merged\\debug\\layout-v14\\md_stub_progress_indeterminate_horizontal.xml",
+        "source": "C:\\Users\\OguzPC\\.gradle\\caches\\transforms-1\\files-1.1\\core-0.9.6.0.aar\\e8bf9f281dd08e355db9b91ae2741dab\\res\\layout-v14\\md_stub_progress_indeterminate_horizontal.xml"
+    }
+]

@@ -1,0 +1,34 @@
+{
+    "logs": [
+        {
+            "outputFile": "D:\\HappinessTime\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-sw720dp-land-v13\\values-sw720dp-land-v13.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\OguzPC\\.gradle\\caches\\transforms-1\\files-1.1\\core-0.9.6.0.aar\\ee6d010a50741a412426c768677f5006\\res\\values-sw720dp-land-v13\\values-sw720dp-land-v13.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "51",
+                        "endOffsets": "102"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "D:\\HappinessTime\\app\\build\\intermediates\\res\\merged\\debug\\values-sw720dp-land-v13\\values-sw720dp-land-v13.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\OguzPC\\.gradle\\caches\\transforms-1\\files-1.1\\core-0.9.6.0.aar\\e8bf9f281dd08e355db9b91ae2741dab\\res\\values-sw720dp-land-v13\\values-sw720dp-land-v13.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "51",
+                        "endOffsets": "102"
+                    }
+                }
+            ]
+        }
+    ]
+}

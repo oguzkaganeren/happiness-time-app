@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "D:\\HappinessTime\\app\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-anydpi-v21\\design_ic_visibility.xml",
+        "source": "C:\\Users\\OguzPC\\.gradle\\caches\\transforms-1\\files-1.1\\design-27.1.0.aar\\7b6e6b7db0275895f1534a795e6ea9d6\\res\\drawable-anydpi-v21\\design_ic_visibility.xml"
+    },
+    {
+        "merged": "D:\\HappinessTime\\app\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-anydpi-v21\\md_nav_back.xml",
+        "source": "C:\\Users\\OguzPC\\.gradle\\caches\\transforms-1\\files-1.1\\core-0.9.6.0.aar\\e8bf9f281dd08e355db9b91ae2741dab\\res\\drawable-anydpi-v21\\md_nav_back.xml"
+    },
+    {
+        "merged": "D:\\HappinessTime\\app\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-anydpi-v21\\design_ic_visibility_off.xml",
+        "source": "C:\\Users\\OguzPC\\.gradle\\caches\\transforms-1\\files-1.1\\design-27.1.0.aar\\7b6e6b7db0275895f1534a795e6ea9d6\\res\\drawable-anydpi-v21\\design_ic_visibility_off.xml"
+    }
+]

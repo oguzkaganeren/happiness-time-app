@@ -1,0 +1,116 @@
+{
+    "logs": [
+        {
+            "outputFile": "D:\\HappinessTime\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-pt\\values-pt.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\OguzPC\\.gradle\\caches\\transforms-1\\files-1.1\\materialdrawer-6.0.7.aar\\58387d2dcc456a01f4446fe7879f2136\\res\\values-pt\\values-pt.xml",
+                    "from": {
+                        "startLines": "2,3",
+                        "startColumns": "4,4",
+                        "startOffsets": "55,112",
+                        "endColumns": "56,54",
+                        "endOffsets": "107,162"
+                    },
+                    "to": {
+                        "startLines": "19,20",
+                        "startColumns": "4,4",
+                        "startOffsets": "1904,1961",
+                        "endColumns": "56,54",
+                        "endOffsets": "1956,2011"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\OguzPC\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-27.1.0.aar\\11dbfdfafff5c57d2a1b9dd70ee4b33a\\res\\values-pt\\values-pt.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    },
+                    "to": {
+                        "startLines": "22",
+                        "startColumns": "4",
+                        "startOffsets": "2101",
+                        "endColumns": "100",
+                        "endOffsets": "2197"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\OguzPC\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.0.aar\\0fdd74ab3560fe801923d679be111865\\res\\values-pt\\values-pt.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "105,225,331,438,527,628,746,829,909,996,1103,1215,1317,1425,1532,1642,1804,1904",
+                        "endColumns": "119,105,106,88,100,117,82,79,86,106,111,101,107,106,109,161,99,84",
+                        "endOffsets": "220,326,433,522,623,741,824,904,991,1098,1210,1312,1420,1527,1637,1799,1899,1984"
+                    },
+                    "to": {
+                        "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,21",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "105,225,331,438,527,628,746,829,909,996,1103,1215,1317,1425,1532,1642,1804,2016",
+                        "endColumns": "119,105,106,88,100,117,82,79,86,106,111,101,107,106,109,161,99,84",
+                        "endOffsets": "220,326,433,522,623,741,824,904,991,1098,1210,1312,1420,1527,1637,1799,1899,2096"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "D:\\HappinessTime\\app\\build\\intermediates\\res\\merged\\debug\\values-pt\\values-pt.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\OguzPC\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-27.1.0.aar\\6b40f424a053f3d0af8ae0177e23886c\\res\\values-pt\\values-pt.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    },
+                    "to": {
+                        "startLines": "22",
+                        "startColumns": "4",
+                        "startOffsets": "2101",
+                        "endColumns": "100",
+                        "endOffsets": "2197"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\OguzPC\\.gradle\\caches\\transforms-1\\files-1.1\\materialdrawer-6.0.7.aar\\98167d00f82213b6e688e7ed836fb236\\res\\values-pt\\values-pt.xml",
+                    "from": {
+                        "startLines": "2,3",
+                        "startColumns": "4,4",
+                        "startOffsets": "55,112",
+                        "endColumns": "56,54",
+                        "endOffsets": "107,162"
+                    },
+                    "to": {
+                        "startLines": "19,20",
+                        "startColumns": "4,4",
+                        "startOffsets": "1904,1961",
+                        "endColumns": "56,54",
+                        "endOffsets": "1956,2011"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\OguzPC\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.0.aar\\f072a159c87e476f42c4c0643c6a569f\\res\\values-pt\\values-pt.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "105,225,331,438,527,628,746,829,909,996,1103,1215,1317,1425,1532,1642,1804,1904",
+                        "endColumns": "119,105,106,88,100,117,82,79,86,106,111,101,107,106,109,161,99,84",
+                        "endOffsets": "220,326,433,522,623,741,824,904,991,1098,1210,1312,1420,1527,1637,1799,1899,1984"
+                    },
+                    "to": {
+                        "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,21",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "105,225,331,438,527,628,746,829,909,996,1103,1215,1317,1425,1532,1642,1804,2016",
+                        "endColumns": "119,105,106,88,100,117,82,79,86,106,111,101,107,106,109,161,99,84",
+                        "endOffsets": "220,326,433,522,623,741,824,904,991,1098,1210,1312,1420,1527,1637,1799,1899,2096"
+                    }
+                }
+            ]
+        }
+    ]
+}

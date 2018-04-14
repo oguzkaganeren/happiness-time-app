@@ -1,0 +1,72 @@
+{
+    "logs": [
+        {
+            "outputFile": "D:\\HappinessTime\\app\\build\\intermediates\\res\\merged\\androidTest\\debug\\values-v16\\values-v16.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\OguzPC\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-27.1.0.aar\\6b40f424a053f3d0af8ae0177e23886c\\res\\values-v16\\values-v16.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "65",
+                        "endOffsets": "116"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\OguzPC\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.0.aar\\f072a159c87e476f42c4c0643c6a569f\\res\\values-v16\\values-v16.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endLines": "5",
+                        "endColumns": "12",
+                        "endOffsets": "223"
+                    },
+                    "to": {
+                        "startLines": "3",
+                        "startColumns": "4",
+                        "startOffsets": "121",
+                        "endLines": "6",
+                        "endColumns": "12",
+                        "endOffsets": "289"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "D:\\HappinessTime\\app\\build\\intermediates\\incremental\\mergeDebugAndroidTestResources\\merged.dir\\values-v16\\values-v16.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\OguzPC\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.0.aar\\0fdd74ab3560fe801923d679be111865\\res\\values-v16\\values-v16.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endLines": "5",
+                        "endColumns": "12",
+                        "endOffsets": "223"
+                    },
+                    "to": {
+                        "startLines": "3",
+                        "startColumns": "4",
+                        "startOffsets": "121",
+                        "endLines": "6",
+                        "endColumns": "12",
+                        "endOffsets": "289"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\OguzPC\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-27.1.0.aar\\11dbfdfafff5c57d2a1b9dd70ee4b33a\\res\\values-v16\\values-v16.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "65",
+                        "endOffsets": "116"
+                    }
+                }
+            ]
+        }
+    ]
+}

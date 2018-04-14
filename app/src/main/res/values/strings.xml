@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">HappinessTime</string>
+    <string name="title_activity_login">LoginActivity</string>
+    <string name="title_activity_register">RegisterActivity</string>
+    <string name="title_activity_logout">LogoutActivity</string>
+    <string name="title_activity_reset">ResetPwActivity</string>
+    <string name="title_activity_add_fly">addFly</string>
+    <string name="title_activity_game">GameActivity</string>
+    <string name="title_activity_question">Question</string>
+    <string name="title_activity_categories">Categories</string>
+    <string name="title_activity_add_question">AddQuestionActivity</string>
+    <string name="title_activity_point_campaign">PointCampaign</string>
+    <string name="title_activity_history_fly">HistoryFly</string>
+</resources>

@@ -1,0 +1,199 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:padding="10dp"
+    android:background="@color/backgroundcolor"
+    android:gravity="center">
+
+    <LinearLayout
+        android:clipToPadding="false"
+        android:gravity="center"
+        android:orientation="horizontal"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+        <android.support.v7.widget.CardView
+            android:id="@+id/sport_card"
+            android:layout_width="250dp"
+            android:layout_height="80dp"
+            android:layout_margin="10dp">
+            <RelativeLayout
+                android:layout_width="match_parent"
+                android:layout_height="match_parent">
+                <ImageView
+                    android:layout_width="50dp"
+                    android:layout_height="50dp"
+                    android:background="@color/sport"
+                    android:src ="@drawable/ic_directions_run_black_24dp"
+                    android:padding="10dp"
+                    android:layout_margin="13dp"/>
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="SPOR"
+                    android:textSize="10pt"
+                    android:layout_centerInParent="true"
+                    android:gravity="center"/>
+
+            </RelativeLayout>
+
+
+        </android.support.v7.widget.CardView>
+
+
+    </LinearLayout>
+    <LinearLayout
+        android:clipToPadding="false"
+        android:gravity="center"
+        android:orientation="horizontal"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+        <android.support.v7.widget.CardView
+            android:id="@+id/history"
+            android:layout_width="250dp"
+            android:layout_height="80dp"
+            android:layout_margin="10dp">
+            <RelativeLayout
+                android:layout_width="match_parent"
+                android:layout_height="match_parent">
+                <ImageView
+                    android:layout_width="50dp"
+                    android:layout_height="50dp"
+                    android:background="@color/history"
+                    android:src ="@drawable/ic_hourglass_full_black_24dp"
+                    android:padding="10dp"
+                    android:layout_margin="13dp"/>
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="TARİH"
+                    android:textSize="10pt"
+                    android:layout_centerInParent="true"
+                    android:gravity="center"/>
+
+            </RelativeLayout>
+
+
+        </android.support.v7.widget.CardView>
+
+
+    </LinearLayout>
+    <LinearLayout
+        android:clipToPadding="false"
+        android:gravity="center"
+        android:orientation="horizontal"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+        <android.support.v7.widget.CardView
+            android:id="@+id/science"
+            android:layout_width="250dp"
+            android:layout_height="80dp"
+            android:layout_margin="10dp">
+            <RelativeLayout
+                android:layout_width="match_parent"
+                android:layout_height="match_parent">
+                <ImageView
+                    android:layout_width="50dp"
+                    android:layout_height="50dp"
+                    android:background="@color/science"
+                    android:src ="@drawable/ic_casino_black_24dp"
+                    android:padding="10dp"
+                    android:layout_margin="13dp"/>
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="BİLİM"
+                    android:textSize="10pt"
+                    android:layout_centerInParent="true"
+                    android:gravity="center"/>
+
+            </RelativeLayout>
+
+
+        </android.support.v7.widget.CardView>
+
+
+    </LinearLayout>
+    <LinearLayout
+        android:clipToPadding="false"
+        android:gravity="center"
+        android:orientation="horizontal"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+        <android.support.v7.widget.CardView
+            android:id="@+id/cinema"
+            android:layout_width="250dp"
+            android:layout_height="80dp"
+            android:layout_margin="10dp">
+            <RelativeLayout
+                android:layout_width="match_parent"
+                android:layout_height="match_parent">
+                <ImageView
+                    android:layout_width="50dp"
+                    android:layout_height="50dp"
+                    android:background="@color/cinema"
+                    android:src ="@drawable/ic_star_black_24dp"
+                    android:padding="10dp"
+                    android:layout_margin="13dp"/>
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="SİNEMA"
+                    android:textSize="10pt"
+                    android:layout_centerInParent="true"
+                    android:gravity="center"/>
+
+            </RelativeLayout>
+
+
+        </android.support.v7.widget.CardView>
+
+
+    </LinearLayout>
+    <LinearLayout
+        android:clipToPadding="false"
+        android:gravity="center"
+        android:orientation="horizontal"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+        <android.support.v7.widget.CardView
+            android:id="@+id/mix"
+            android:layout_width="250dp"
+            android:layout_height="80dp"
+            android:layout_margin="10dp">
+            <RelativeLayout
+                android:layout_width="match_parent"
+                android:layout_height="match_parent">
+                <ImageView
+                    android:layout_width="50dp"
+                    android:layout_height="50dp"
+                    android:background="@color/mix"
+                    android:src ="@drawable/ic_dashboard_black_24dp"
+                    android:padding="10dp"
+                    android:layout_margin="13dp"/>
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="KARIŞIK"
+                    android:textSize="10pt"
+                    android:layout_centerInParent="true"
+                    android:gravity="center"/>
+
+            </RelativeLayout>
+
+
+        </android.support.v7.widget.CardView>
+
+
+    </LinearLayout>
+
+
+</LinearLayout>

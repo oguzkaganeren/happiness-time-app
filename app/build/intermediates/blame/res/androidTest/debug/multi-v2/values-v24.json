@@ -1,0 +1,68 @@
+{
+    "logs": [
+        {
+            "outputFile": "D:\\HappinessTime\\app\\build\\intermediates\\incremental\\mergeDebugAndroidTestResources\\merged.dir\\values-v24\\values-v24.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\OguzPC\\.gradle\\caches\\transforms-1\\files-1.1\\support-media-compat-27.1.0.aar\\4ed55041fa40f0b4fa933041b4de6807\\res\\values-v24\\values-v24.xml",
+                    "from": {
+                        "startLines": "2,3,4,5",
+                        "startColumns": "4,4,4,4",
+                        "startOffsets": "55,121,182,248",
+                        "endColumns": "65,60,65,66",
+                        "endOffsets": "116,177,243,310"
+                    },
+                    "to": {
+                        "startLines": "4,5,6,7",
+                        "startColumns": "4,4,4,4",
+                        "startOffsets": "347,413,474,540",
+                        "endColumns": "65,60,65,66",
+                        "endOffsets": "408,469,535,602"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\OguzPC\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.0.aar\\0fdd74ab3560fe801923d679be111865\\res\\values-v24\\values-v24.xml",
+                    "from": {
+                        "startLines": "2,3",
+                        "startColumns": "4,4",
+                        "startOffsets": "55,212",
+                        "endColumns": "156,134",
+                        "endOffsets": "207,342"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "D:\\HappinessTime\\app\\build\\intermediates\\res\\merged\\androidTest\\debug\\values-v24\\values-v24.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\OguzPC\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.0.aar\\f072a159c87e476f42c4c0643c6a569f\\res\\values-v24\\values-v24.xml",
+                    "from": {
+                        "startLines": "2,3",
+                        "startColumns": "4,4",
+                        "startOffsets": "55,212",
+                        "endColumns": "156,134",
+                        "endOffsets": "207,342"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\OguzPC\\.gradle\\caches\\transforms-1\\files-1.1\\support-media-compat-27.1.0.aar\\e17764d84914eac2502d37bba5e54780\\res\\values-v24\\values-v24.xml",
+                    "from": {
+                        "startLines": "2,3,4,5",
+                        "startColumns": "4,4,4,4",
+                        "startOffsets": "55,121,182,248",
+                        "endColumns": "65,60,65,66",
+                        "endOffsets": "116,177,243,310"
+                    },
+                    "to": {
+                        "startLines": "4,5,6,7",
+                        "startColumns": "4,4,4,4",
+                        "startOffsets": "347,413,474,540",
+                        "endColumns": "65,60,65,66",
+                        "endOffsets": "408,469,535,602"
+                    }
+                }
+            ]
+        }
+    ]
+}
