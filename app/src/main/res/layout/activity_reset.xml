@@ -18,10 +18,12 @@
 
 
         <ImageView
-            android:layout_width="36dp"
-            android:layout_height="36dp"
+            android:layout_width="150dp"
+            android:layout_height="150dp"
+            android:background="@drawable/circlebackgroundpurple"
             android:layout_gravity="center_horizontal"
-            android:layout_marginBottom="10dp"/>
+            android:src="@drawable/paper"
+            android:layout_marginBottom="30dp" />
 
         <TextView
             android:layout_width="wrap_content"
@@ -29,7 +31,8 @@
             android:layout_gravity="center_horizontal"
             android:padding="10dp"
             android:text="Forgot Password"
-            android:textColor="@android:color/white"
+            android:textStyle="bold"
+            android:textColor="@android:color/black"
             android:textSize="20dp" />
 
         <TextView
@@ -39,7 +42,7 @@
             android:gravity="center_horizontal"
             android:padding="16dp"
             android:text="If you forgot your password, you're in the right page."
-            android:textColor="@android:color/white"
+            android:textColor="@android:color/black"
             android:textSize="14dp" />
 
         <android.support.design.widget.TextInputLayout
@@ -53,9 +56,10 @@
                 android:layout_marginBottom="10dp"
                 android:layout_marginTop="20dp"
                 android:hint="E-mail"
+                android:drawableRight="@drawable/ic_email_black_24dp"
                 android:inputType="textEmailAddress"
-                android:textColor="@android:color/white"
-                android:textColorHint="@android:color/white" />
+                android:textColor="@android:color/black"
+                android:textColorHint="@android:color/black" />
         </android.support.design.widget.TextInputLayout>
 
         <!-- Login Button -->
@@ -65,18 +69,18 @@
             android:layout_width="fill_parent"
             android:layout_height="wrap_content"
             android:layout_marginTop="20dip"
-            android:background="@color/colorAccent"
+            android:background="#FF5252"
             android:text="Reset Password"
-            android:textColor="@android:color/black" />
+            android:textColor="#FFFFFF" />
 
         <Button
             android:id="@+id/btn_back"
-            android:layout_width="wrap_content"
+            android:layout_width="fill_parent"
             android:layout_height="wrap_content"
             android:layout_marginTop="10dp"
-            android:background="@null"
+            android:background="#009688"
             android:text="Login"
-            android:textColor="@color/colorAccent" />
+            android:textColor="#FFFFFF" />
 
     </LinearLayout>
 

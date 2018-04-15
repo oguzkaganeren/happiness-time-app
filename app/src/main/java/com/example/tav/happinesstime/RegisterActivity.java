@@ -98,7 +98,9 @@ public class RegisterActivity extends AppCompatActivity {
                                                 @Override
                                                 public void onComplete(@NonNull Task<Void> task) {
                                                     if (task.isSuccessful()) {
+                                                        mDatabase.child("users").child(auth.getCurrentUser().getUid()).child("profile").child("points").setValue(0);
                                                         auth.signOut();
+
                                                         finish();
                                                         Toast.makeText(RegisterActivity.this, "Registered Successfully. Check your email", Toast.LENGTH_SHORT).show();
                                                         startActivity(new Intent(getApplicationContext(), MainActivity.class));
